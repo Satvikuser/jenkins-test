@@ -1,0 +1,12 @@
+{
+  "name": "hello-jenkins",
+  "version": "1.0.0",
+  "description": "Tiny Node.js app for learning Jenkins CI/CD",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "node tests/app.test.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
